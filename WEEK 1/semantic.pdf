@@ -1,0 +1,10 @@
+Semantic Html 
+
+1.<header>  is a semantic HTML5 tag used to define the section of a webpage 
+2.<nav> defines a section containing navigation links.
+3. <main> Contains the main content of the webpage. 
+4.<section> Groups related content under a common heading.
+5.<article> Represents independent, self-contained content such as news article or product description.
+6.<table> displays data in rows and colums
+7.<form>Collects user input.
+8.<footer> Defines the footer of a webpage or section . contains copyright information, contact details links.
